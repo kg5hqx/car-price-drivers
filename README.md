@@ -9,3 +9,4 @@ Based on the analysis of the data and predictions by multiple regression models,
 4. Front-wheeled drive vehicles are not as desirable as other drive mechanisms.
 
 For a deeper look into the analysis, please find a downloadable Jupyter Notebook here: 
+https://github.com/kg5hqx/car-price-drivers/blob/master/prompt_II.ipynb
